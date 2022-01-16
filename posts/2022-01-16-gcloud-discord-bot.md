@@ -372,6 +372,6 @@ Run `make dev` and open a new terminal window. Run `curl localhost:8080/health` 
 
 ## Connecting to the Discord gateway
 
-We're going to use the <a target="_blank" rel="noreferrer" href="https://github.com/bwmarrin/discordgo">`discordgo` library from `bwmarrin`</a>.
+We're going to use the <a target="_blank" rel="noreferrer" href="https://github.com/bwmarrin/discordgo">`discordgo` library from `bwmarrin`</a> to connect to the Discord gateway.
 
 _I'll continue this post later today..._
